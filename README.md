@@ -1,7 +1,7 @@
 <div>
   <h3 align="center"> 
     Visitors Count<br>
-    <img align="center" src="https://profile-counter.glitch.me/GGBondPro/count.svg" />
+    <img align="center" src="https://profile-counter.glitch.me/GGBondMZ/count.svg" />
   </h3>
 </div>
 
@@ -41,12 +41,12 @@
 </table>
 
 
-<!--## **GitHub Estatísticas**-->
-<!--![GGBondPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGBondPro-1&theme=radical&show_icons=true) -->
+## **GitHub Estatísticas**-->
+![GGBondMZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGBondMZ-1&theme=radical&show_icons=true) -->
 
-<!--![GGBondPro](https://github-readme-stats.vercel.app/api/top-langs/?username=GGBondPro-1&hide=html&layout=compact&theme=radical)-->
+![GGBondMZ](https://github-readme-stats.vercel.app/api/top-langs/?username=GGBondMZ-1&hide=html&layout=compact&theme=radical)
 
-<!--![GGBondPro](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GGBondPro-1&theme=monokai)-->
+![GGBondMZ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GGBondMZ-1&theme=monokai)
 
 ```
                              \\\\\\\
