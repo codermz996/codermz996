@@ -26,7 +26,7 @@
 <table border=0>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=GGBondMZ&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="GGBondMZ's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=923245500713886&hide_border=true" alt="GGBondMZ的掘金数据" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=923245500713886&hide_border=true" alt="GGBondMZ's Juejin" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
 
@@ -44,8 +44,8 @@
   <a href="https://github.com/GGBondMZ/OpenGLESDemo">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=OpenGLESDemo&theme=vue-light" />
   </a>
-  <a href="https://github.com/GGBondMZ/DeviceAudioTest">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=DeviceAudioTest&theme=vue-light" />
+  <a href="https://github.com/GGBondMZ/MyPhotoView">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=MyPhotoView&theme=vue-light" />
   </a>
 </p>
 
