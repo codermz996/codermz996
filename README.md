@@ -15,7 +15,7 @@
 
 >  🌱 I am learning Android now...
 
->  💞️ I'm busy with work...
+>  💞️ I'm busy with working...
 
 >  📫 My Telegram is: WLHG8PLUS
 
@@ -29,6 +29,15 @@
     <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=923245500713886&hide_border=true" alt="WLHG8PLUS的掘金" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
+
+<p>
+  <a href="https://https://github.com/GGBondMZ/AndroidSerialPortUtils">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=py-tools&theme=vue-light" />
+  </a>
+   <a href="https://github.com/GGBondMZ/SocketUtils">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=WordSprite&theme=vue-light" />
+  </a>
+</p>
 
 
 ```
