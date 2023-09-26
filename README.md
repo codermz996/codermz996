@@ -33,6 +33,12 @@
 [^_^]: <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 [^_^]: <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
+<table border=0>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=huidbk&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=817692384431470&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
 
 
 <!--## **GitHub Estatísticas**-->
