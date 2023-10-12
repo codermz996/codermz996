@@ -30,25 +30,6 @@
   </tr>
 </table>
 
-### Pinned Projects
-<p>
-  <a href="https://github.com/GGBondMZ/AndroidSerialPortUtils">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=AndroidSerialPortUtils&theme=vue-light" />
-  </a>
-   <a href="https://github.com/GGBondMZ/SocketUtils">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=SocketUtils&theme=vue-light" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/GGBondMZ/OpenGLESDemo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=OpenGLESDemo&theme=vue-light" />
-  </a>
-  <a href="https://github.com/GGBondMZ/MyPhotoView">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GGBondMZ&repo=MyPhotoView&theme=vue-light" />
-  </a>
-</p>
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GGBondMZ&theme=vue-light)
