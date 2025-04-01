@@ -5,9 +5,9 @@
   </h3>
 </div>
 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  Hi there 👋 I'm GGBond
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  Hi there 👋 I'm codermz
 
->  👋 Hello everyone, I'm GGBond.
+>  👋 Hello everyone, I'm codermz.
 
 >  😄 I'm an Android framework engineer with a passion for the Android.
 
