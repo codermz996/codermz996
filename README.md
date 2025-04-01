@@ -26,7 +26,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GGBondMZ&theme=vue-light)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GGBondMZ"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codermz996"></img>
 
 ```
                              \\\\\\\
